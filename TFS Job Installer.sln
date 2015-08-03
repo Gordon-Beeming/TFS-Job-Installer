@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.23103.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TFS Job Installer", "TFS Job Installer\TFS Job Installer.csproj", "{CF48E386-7FC4-481A-967A-F65CE6B5F310}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TFS Job Installer.Client", "TFS Job Installer.Client\TFS Job Installer.Client.csproj", "{B5513792-CA38-461B-8A3A-1C4DBA804FAF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CF48E386-7FC4-481A-967A-F65CE6B5F310}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CF48E386-7FC4-481A-967A-F65CE6B5F310}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CF48E386-7FC4-481A-967A-F65CE6B5F310}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CF48E386-7FC4-481A-967A-F65CE6B5F310}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B5513792-CA38-461B-8A3A-1C4DBA804FAF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B5513792-CA38-461B-8A3A-1C4DBA804FAF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B5513792-CA38-461B-8A3A-1C4DBA804FAF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B5513792-CA38-461B-8A3A-1C4DBA804FAF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(CodealikeProperties) = postSolution
+		SolutionGuid = 8ba760b2-33b6-45df-9ab2-2c83a5bf9eb4
+	EndGlobalSection
+EndGlobal
